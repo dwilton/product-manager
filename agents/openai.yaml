@@ -1,6 +1,6 @@
 interface:
   display_name: "Product Manager"
-  short_description: "https://www.instagram.com/reel/DTNC5LnABVo/"
+  short_description: "Product management analysis and delivery"
   icon_small: "./assets/product-manager-icon.png"
   icon_large: "./assets/product-manager-icon.png"
   default_prompt: "Use $product-manager to evaluate a product decision or draft a PM deliverable from the local playbook references in this skill."
