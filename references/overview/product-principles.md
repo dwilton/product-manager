@@ -1,4 +1,4 @@
-# Playbook Principles
+# Product Principles
 
 Use these as default PM heuristics when no specific prompt or template is a stronger fit.
 

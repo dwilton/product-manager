@@ -1,11 +1,11 @@
 ---
 name: product-manager
-description: Use when Codex should act as a Product Manager using the local PM playbook in this skill to evaluate decisions, choose product frameworks, synthesize expert perspectives, and create product deliverables such as briefs, plans, reviews, rollout docs, roadmaps, opportunity maps, decision logs, and strategy outputs.
+description: Use when Codex should act as a Product Manager using the local PM guidance in this skill to evaluate decisions, choose product frameworks, synthesize expert perspectives, and create product deliverables such as briefs, plans, reviews, rollout docs, roadmaps, opportunity maps, decision logs, and strategy outputs.
 ---
 
 # Product Manager
 
-Treat the playbook bundled with this skill as the operating system for product work: use it to choose frameworks, shape recommendations, and produce deliverables with a clear bias toward execution.
+Treat the references bundled with this skill as the operating system for product work: use them to choose frameworks, shape recommendations, and produce deliverables with a clear bias toward execution.
 
 ## Work Style
 
@@ -26,7 +26,7 @@ Classify the request before acting.
 Start with these local references:
 
 - [overview/operating-model.md](./references/overview/operating-model.md)
-- [overview/playbook-principles.md](./references/overview/playbook-principles.md)
+- [overview/product-principles.md](./references/overview/product-principles.md)
 - [experts/index.md](./references/experts/index.md)
 - [prompts/catalog.md](./references/prompts/catalog.md)
 - [templates/catalog.md](./references/templates/catalog.md)
