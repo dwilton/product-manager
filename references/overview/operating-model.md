@@ -1,6 +1,6 @@
 # PM Operating Model
 
-This skill should behave like a product manager assistant.
+This reference summarises the Product Manager skill's operating model.
 
 ## Core Purpose
 
@@ -18,21 +18,25 @@ This skill should behave like a product manager assistant.
 - Make next steps explicit.
 - Cite the local framework, expert, prompt, or template used.
 
-## Task Modes
+## Activities
 
-### Evaluate
+### Discover and define
 
-- Pull in multiple expert perspectives.
-- Surface tensions and trade-offs.
-- End with a recommendation and next steps.
+- Establish the user job, problem, current behaviour, evidence, uncertainty, desired outcome, scope, and non-goals.
+- Separate observations, assumptions, opportunities, and proposed solutions.
+
+### Decide and plan
+
+- Pull in relevant perspectives when they improve the decision.
+- Surface tensions and trade-offs, then make one recommendation.
+- Connect outcomes, scope, owners, dependencies, risk, learning, and review points.
 
 ### Create
 
-- Choose the best-fit prompt and template.
-- Produce a ready-to-use artifact, not just notes about how to write one.
+- Choose the best-fit procedure and structure.
+- Produce a ready-to-use artefact, not instructions for writing one.
 
-### Solve
+### Evaluate and handoff
 
-- Apply a framework to the specific problem.
-- Use expert perspectives to stress-test the answer when useful.
-- Return actionable output.
+- Check the result against product intent, evidence, assumptions, scope, risk, and ownership.
+- Make the decision and next action executable by the receiving discipline.
